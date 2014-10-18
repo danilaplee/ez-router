@@ -1,4 +1,4 @@
-ez-router
+Ez-Router
 =========
 
-super-fast and easy routing solution for all your daily needs
+super-fast and easy AJAX routing solution for all your daily needs
