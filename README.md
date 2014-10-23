@@ -5,7 +5,7 @@
 
 Build Ajax and Jquery powered web apps using only css selectors in 5 minutes
 
-## 0 - don't forget to include some jquery
+## 0 - don't forget to include some jquery and <a href="https://github.com/browserstate/history.js/">history.js</a>
 
 Ok, we are set to go
 
