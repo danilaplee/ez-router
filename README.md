@@ -14,7 +14,8 @@ Build Ajax and Jquery powered web apps using only css selectors in 5 minutes
 	</script>
 
 ##Now include the script
-<script type="text/javascript" src="/js/ez-router.js"></script>
+
+< script type="text/javascript" src="/js/ez-router.js"></ script>
 
 Now all your links are used as targets for a simple AJAX-GET request on the designated url
 
