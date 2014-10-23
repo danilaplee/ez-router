@@ -20,7 +20,7 @@ b.t.w. you can also include velocity.js and velocity.ui.js for animations
 
 Now all your links are used as targets for a simple AJAX-GET request on the designated url
 
-Finally just add some classnames to your basic <a href="/dirtyvideo" >Linkmebaby< /a> tags
+Finally just add some classnames to your basic <code><a></a></code> tags
 
 	<a href="/shop" class="basic"> - Defines your basic needs to convert the request to non-ajax
 
