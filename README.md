@@ -4,9 +4,10 @@
 ##Super-easy AJAX routing solution for all your nerdly needs
 
 Build Ajax and Jquery powered web apps using only css selectors in 5 minutes
+
 ## 0 - don't forget to include some jquery
+
 Ok, we are set to go
-b.t.w. you can also include velocity.js and velocity.ui.js for animations
 
 ##First define the options(somewhere in your head):
 
@@ -20,9 +21,9 @@ b.t.w. you can also include velocity.js and velocity.ui.js for animations
 
 Now all your links are used as targets for a simple AJAX-GET request on the designated url
 
-Finally just add some classnames to your basic <code><a></a></code> tags
+Finally just add some classnames to your basic link tags
 
-	<a href="/shop" class="basic"> - Defines your basic needs to convert the request to non-ajax
+	<a href="/shop" class="basicMe"> - Defines your basic needs to convert the request to non-ajax
 
-	<a href="/cart" class="modal"> - Loads content into your modal window
+	<a href="/cart" class="modalMe"> - Loads content into your modal window
 	
