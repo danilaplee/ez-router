@@ -13,10 +13,10 @@ Build Ajax and Jquery powered web apps using only css selectors in 5 minutes
 	var $EzModal =  $('whatever container you wish to define as your modal window')
 	</script>
 
-##Second Include <code><script type="text/javascript" src="ez-router.js"></script></code>
+<h1>Second Include <code><script type="text/javascript" src="ez-router.js"></script></code><h1>
 	Now all your links are used as targets for a simple ajax request on the designated url
 
-##Now just add some classnames to your basic <code><a href="/dirtyvideo">Linkmebaby</a></code> tags
+<h1>Now just add some classnames to your basic <code><a href="/dirtyvideo">Linkmebaby</a></code> tags<h1>
 
 	<code><a href="/shop" class="basic"></code> - Defines your basic needs to convert the request to non-ajax
 
